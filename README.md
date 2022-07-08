@@ -1,2 +1,2 @@
 # BuildrootLab
-My Lab based on Buildroot 2022.03
+My Lab based on buildroot-2022.02.3
